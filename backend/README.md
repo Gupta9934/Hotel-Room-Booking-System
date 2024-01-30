@@ -1,11 +1,3 @@
-<!-- social media connecting shield -->
-
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
-
 # Hotel Room Booking System (Backend)
 
 ## E-R Diagram
