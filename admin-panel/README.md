@@ -2,7 +2,7 @@
 
 ## Admin Panel Flowchart
 
-![Admin Panel Flowchart](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/admin-panel-flowchart.drawio.png)
+![Admin Panel Flowchart](https://github.com/Gupta9934/Hotel-Room-Booking-System/blob/main/admin-panel-flowchart.drawio.png)
 
 ## Getting Started with Create React App
 
