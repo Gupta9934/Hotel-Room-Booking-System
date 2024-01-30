@@ -10,11 +10,11 @@
 
 ## E-R Diagram
 
-![E-R Diagram](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/breach-resorts-e-r-diagram.drawio.png)
+![E-R Diagram](https://github.com/Gupta9934/Hotel-Room-Booking-System/blob/main/breach-resorts-e-r-diagram.drawio.png)
 
 ## Database Relational Schema
 
-![Database Relational Schema](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/database-relational-schema.png)
+![Database Relational Schema](https://github.com/Gupta9934/Hotel-Room-Booking-System/blob/main/database-relational-schema.png)
 
 ## Installing Packages
 
@@ -76,22 +76,6 @@ npm install -D jest supertest superagent
 npm install -D @babel/core @babel/preset-env babel-jest
 jest --init // initialize jest for app testing
 ```
-
-<!-- my social media links -->
-
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
-
-<!-- shield icon links -->
-
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
 <p align="center">
   <strong> HAPPY PROGRAMMING & I LOVE DEVELOPING 💞 </strong>
